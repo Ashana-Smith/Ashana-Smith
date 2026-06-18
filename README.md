@@ -14,5 +14,5 @@ My long-term goal is to build a career that combines data analytics, AI, user ex
 Let’s Connect!
 💼 www.linkedin.com/in/ashana-smith
 
-⭐ Thanks for stopping by and checking out my work!
+⭐ Thanks for stopping by!
 
