@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I’m Ashana 👋🏽
 
-<!--
-**Ashana-Smith/Ashana-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analyst & AI Student
+📍 New Brunswick, Canada
+🌱 Currently learning SQL, Data Ethics, Git & GitHub, and AI Fundamentals
+💡 Passionate about data, technology, design, and continuous learning
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently pursuing a diploma in Data Analytics & Artificial Intelligence while building hands-on experience through projects and coursework. I enjoy solving problems, learning new technologies, and exploring how data can help organizations make informed decisions.
+
+My long-term goal is to build a career that combines data analytics, AI, user experience, and web technologies.
+
+Let’s Connect!
+💼 www.linkedin.com/in/ashana-smith
+
+⭐ Thanks for stopping by and checking out my work!
+
